@@ -15,4 +15,11 @@ This project simulates a voice-interactive rescue robot that uses Speech-to-Text
 
 ```bash
 git clone https://github.com/gonxalor/Backup-Interaction.git
-cd rescue-robot-voice
+cd Backup-Interaction/
+
+### 2. Instal Dependencies
+pip install -r requirements.txt
+
+### 3. Run Interaction scrypt
+
+python ./tts_backup.py
